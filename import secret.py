@@ -1,6 +1,4 @@
-import random
 import tkinter as tk
-import math
 import secrets
 
 root = tk.Tk()
